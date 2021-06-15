@@ -1,5 +1,5 @@
 // kelvin today is 293
-const kelvin = 0;
+const kelvin = 293;
 
 // converting to celcius
 const celsius = kelvin - 273;
